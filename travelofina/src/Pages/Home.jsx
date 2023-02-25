@@ -1,13 +1,15 @@
 import React from "react";
 import { Image, Flex, Box, Text } from "@chakra-ui/react";
+import SearchBox from "../Components/SearchBox";
 const Home = () => {
   return (
     <div>
-      <Image
+      <Image 
         h={"30rem"}
         w="80rem"
         src="https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/0731738d.jpg?impolicy=resizecrop&rw=1200&ra=fit"
       ></Image>
+      <SearchBox/>
       <Flex m={"1.7rem"} gap="2rem">
         <Box>
           <Image
