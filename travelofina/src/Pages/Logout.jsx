@@ -1,3 +1,6 @@
+import { app } from "../firebaseConfig";
+import { useState } from "react";
+import { getAuth, createUserWithEmailAndPassword } from "firebase/auth";
 import {
   Flex,
   Box,
@@ -14,10 +17,24 @@ import {
   useColorModeValue,
   Link,
 } from "@chakra-ui/react";
-import { useState } from "react";
 import { ViewIcon, ViewOffIcon } from "@chakra-ui/icons";
 
 export default function Logout() {
+  const [email, setEmail] = useState("");
+  const [password, setPassword] = useState("");
+  console.log(email);
+  let auth = getAuth();
+
+  const handleSubmit = () => {
+    createUserWithEmailAndPassword(auth, email, password)
+      .then((res) => {
+        console.log(res.user);
+      })
+      .catch((err) => {
+        window.alert(err.message);
+      });
+  };
+
   const [showPassword, setShowPassword] = useState(false);
 
   return (
@@ -56,12 +73,15 @@ export default function Logout() {
             </HStack>
             <FormControl id="email" isRequired>
               <FormLabel>Email address</FormLabel>
-              <Input type="email" />
+              <Input type="email" onChange={(e) => setEmail(e.target.value)} />
             </FormControl>
             <FormControl id="password" isRequired>
               <FormLabel>Password</FormLabel>
               <InputGroup>
-                <Input type={showPassword ? "text" : "password"} />
+                <Input
+                  type={showPassword ? "text" : "password"}
+                  onChange={(e) => setPassword(e.target.value)}
+                />
                 <InputRightElement h={"full"}>
                   <Button
                     variant={"ghost"}
@@ -83,6 +103,7 @@ export default function Logout() {
                 _hover={{
                   bg: "blue.500",
                 }}
+                onClick={handleSubmit}
               >
                 Sign up
               </Button>
