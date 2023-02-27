@@ -1,5 +1,6 @@
 import React from "react";
 import { Grid, Link, Box, Divider, Input, Text,Checkbox,Flex,Button } from "@chakra-ui/react";
+import {Link as AllLink} from "react-router-dom"
 const SearchBox = () => {
   return (
     <Box className="searchBox" h={"15rem"} p="1rem" w={"95%"} m="auto" borderRadius={"8px"}>
@@ -37,7 +38,7 @@ const SearchBox = () => {
       <Checkbox color="gray">Add a flight</Checkbox>
       <Checkbox color="gray">Add a car</Checkbox>
       </Flex>
-      <Button bg={"#0a438b"} padding="1.5rem 3.5rem" color={"white"}>Search</Button>
+      <AllLink to="/offer"><Button bg={"#0a438b"} padding="1.5rem 3.5rem" color={"white"}>Search</Button></AllLink>
     </Box>
   );
 };

@@ -1,323 +1,299 @@
 {
-    "places":[
-        {
-          "id": 1,
-          "title": "Taj Resort & Convention Centre, Goa",
-          "price": 240,
-          "description": "Located in Panaji, Taj Resort & Convention Centre, Goa is connected to the convention center. Fort Aguada is a notable landmark, and the area's natural beauty can be seen at Vainguinim Beach and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground. With motor boating, boat tours, and swimming nearby, you'll find plenty of adventures in the water.",
-          "category": "men's clothing",
-          "image1": "https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/1583475f.jpg?impolicy=resizecrop&rw=598&ra=fit",
-          "image2":"https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/6c0c28e3.jpg?impolicy=resizecrop&rw=297&ra=fit",
-          "image3":"https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/6a0edcf5.jpg?impolicy=resizecrop&rw=297&ra=fit",
-          "rating": {
-            "rate": "9.4/10 Exceptional",
-            "count": 120
-          }
-        },
-        {
-            "id": 2,
-            "title": "Taj Fort Aguada Resort & Spa, Goa",
-            "price": 290,
-            "description": "Located in Candolim, Taj Fort Aguada Resort & Spa, Goa is connected to a shopping center. Baga Beach and Candolim Beach reflect the area's natural beauty and area attractions include Splashdown Waterpark and Public Observatory. Scuba diving, parasailing, and sailing offer great chances to get out on the surrounding water, or you can seek out an adventure with mountain biking nearby.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/f5764d77.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/530000/526400/526340/8dfcb9bd.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/530000/526400/526340/84d45e08.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/530000/526400/526340/3125a37a.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/530000/526400/526340/b6ea794f.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.0/10 Wonderful",
-              "count": 120
-            }
-          },
-          {
-            "id": 3,
-            "title": "Taj Exotica Resort & Spa, Goa",
-            "price": 320,
-            "description": "Located in Benaulim, Taj Exotica Resort & Spa, Goa is on the beach. Our Lady of Gloria Church and Our Lady of Merces Church are local landmarks, and the area's natural beauty can be seen at Vaddi Beach and Benaulim Beach. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. With water skiing, parasailing, and sailing nearby, you'll find plenty of adventures in the water.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/5bb5e9f8.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/670000/663700/663615/492736dc.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/670000/663700/663615/cb13ac03.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/670000/663700/663615/453357df.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/670000/663700/663615/4ab40117.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.4/10 Exceptional",
-              "count": 120
-            }
-          },
-          {
-            "id": 4,
-            "title": "The St. Regis Goa Resort",
-            "price": 314,
-            "description": "Located in Cavelossim, The St. Regis Goa Resort is near a train station and on a private beach. Cabo de Rama Fort is a notable landmark, and the area's natural beauty can be seen at Mobor Beach and Cavelossim Beach. Looking to enjoy an event or a game while in town? See what's going on at Fatorda Stadium. With scuba diving, snorkeling, and parasailing nearby, you'll find plenty of adventures in the water.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/bd276abd.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/440000/438400/438378/ac3146c9.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/440000/438400/438378/9f82f16e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/440000/438400/438378/80e8c024.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/440000/438400/438378/e8063120.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.4/10 Exceptional",
-              "count": 120
-            }
-          },
-          {
-            "id": 5,
-            "title": "Vivanta Goa, Panaji",
-            "price": 124,
-            "description": "Located in Panaji, Vivanta Goa, Panaji is connected to a shopping center. Mahalaxmi Temple and Bishop's Palace are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/00a8ece2.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/912ea277.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/0554f14d.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/f7d9e46d.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/1973de01.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.4/10 wonderful",
-              "count": 120
-            }
-          },
-          {
-            "id": 6,
-            "title": "DALLAS BEACH RESORTS",
-            "price": 49,
-            "description": "Located in Panaji, Vivanta Goa, Panaji is connected to a shopping center. Mahalaxmi Temple and Bishop's Palace are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/fb123ace.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/a0833fac.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/ff12482e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/e18540da.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/1c6c040e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.4/10 wonderful",
-              "count": 120
-            }
-          },
-          {
-            "id": 7,
-            "title": "Alila Diwa Goa - A Hyatt Brand",
-            "price": 199,
-            "description": "Located in Majorda, Alila Diwa Goa - A Hyatt Brand is in the historical district and near the beach. The area's natural beauty can be seen at Majorda Beach and Uttorda Beach, while Goa Chitra and Ancestral Goa are cultural highlights. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. With water skiing, parasailing, and windsurfing nearby, you'll find plenty of adventures in the water.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/77fc14a6.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/b15a7bcd.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/83f9ea8b.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/2d1ad66c.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/920bbedb.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.4/10 wonderful",
-              "count": 120
-            }
-          },
-          {
-            "id": 8,
-            "title": "Cidade De Goa - IHCL SeleQtions",
-            "price": 181,
-            "description": "Located in Panaji, Cidade De Goa - IHCL SeleQtions is on the beach. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Calangute Beach and Sinquerim Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/033247ff.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/6db1a03f.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/8be089c3.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/0515b709.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/5cf104d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.0/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 9,
-            "title": "DALLAS BEACH RESORTS",
-            "price": 156,
-            "description": "Located in Panaji, Cidade De Goa - IHCL SeleQtions is on the beach. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Calangute Beach and Sinquerim Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/033247ff.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/6db1a03f.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/8be089c3.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/0515b709.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/890000/881600/881558/5cf104d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.0/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 10,
-            "title": "Beleza By The Beach",
-            "price": 121,
-            "description": "Located in Betalbatim, Beleza By The Beach is in the business district and near the beach. Ancestral Goa and Indian Naval Aviation Museum are cultural highlights, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. Take an opportunity to explore the area for outdoor excitement like ecotours.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/3706424f.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/9367169e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/39376b4d.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/380a9abc.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/48dc5435.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.6/10 Excellent",
-              "count": 120
-            }
-          },
-          {
-            "id": 11,
-            "title": "Seashell Suites and Villas",
-            "price": 117,
-            "description": "Located in Candolim, Seashell Suites and Villas is in the entertainment district and near the beach. Splashdown Waterpark and Goa Science Centre are local attractions and those in the mood for shopping can visit Calangute Market and Titos Lane.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/ef1b7e04.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/3d050563.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"hhttps://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/ce694dd6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/d23b035e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/cae3d16c.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.6/10 Exceptional",
-              "count": 120
-            }
-          },
-          {
-            "id": 12,
-            "title": "ITC Grand Goa, a Luxury Collection Resort & Spa, Goa",
-            "price": 370,
-            "description": "Located in Cansaulim, ITC Grand Goa, a Luxury Collection Resort & Spa, Goa is in the entertainment district and on the beach. The area's natural beauty can be seen at Arossim Beach and Uttorda Beach. Looking to enjoy an event or a game while in town? See what's happening at Pandit Jawaharlal Nehru Stadium or Fatorda Stadium. Take an opportunity to explore the area for outdoor excitement like hiking/biking trails.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/94554499.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/3ae1623c.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/07b360d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/d50241c1.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/6c660215.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.4/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 13,
-            "title": "Heritage Village Resort & Spa Goa",
-            "price": 169,
-            "description": "Located in Cansaulim, Heritage Village Resort & Spa Goa is in the historical district and near the beach. Mother of God Church and Our Lady of Merces Church are local landmarks, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Traveling with kids? Consider Public Observatory and Goa Science Centre. With kayaking, snorkeling, and water skiing nearby, you'll find plenty of adventures in the water.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/d67c4236.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/f6005842.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/df19076f.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/1d4b82d8.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/0a87cd58.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.4/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 14,
-            "title": "W Goa",
-            "price": 266,
-            "description": "Located in Cansaulim, Heritage Village Resort & Spa Goa is in the historical district and near the beach. Mother of God Church and Our Lady of Merces Church are local landmarks, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Traveling with kids? Consider Public Observatory and Goa Science Centre. With kayaking, snorkeling, and water skiing nearby, you'll find plenty of adventures in the water.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/a6af8cc5.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/e9e7aae7.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/d7ced695.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/8deb87f6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/cd7b3e4b.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.4/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 15,
-            "title": "Azaya Beach Resort",
-            "price": 185,
-            "description": "Located in Benaulim, Azaya Beach Resort is near the airport and near the beach. The area's natural beauty can be seen at Vaddi Beach and Benaulim Beach, while Ancestral Goa and Indian Naval Aviation Museum are cultural highlights. Looking to enjoy an event or a game while in town? See what's happening at Pandit Jawaharlal Nehru Stadium or Fatorda Stadium. Spend some time exploring the area's activities, including outlet shopping.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/e8849892.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/5c68bb87.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"hhttps://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/32b57043.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/1a7b8c33.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/c4e44c40.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.4/10 Very Good",
-              "count": 120
-            }
-          },
-          {
-            "id": 16,
-            "title": "Vivanta Goa, Miramar",
-            "price": 127,
-            "description": "Located in Panaji, Vivanta Goa, Miramar is connected to a rail/subway station. Azad Maidan and Our Lady Of Pilar are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Salim Ali Bird Sanctuary.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/8d721488.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/150ef5b1.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/4e56c48b.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/6491a3c0.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/99aa8a09.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.6/10 Exceptional",
-              "count": 120
-            }
-          },
-          {
-            "id": 17,
-            "title": "Hard Rock Hotel Goa",
-            "price": 109,
-            "description": "Located in Calangute, Hard Rock Hotel Goa is in the city center and near the beach. Kerkar Art Complex and Calizz are cultural highlights, and some of the area's activities can be experienced at Poriat Football Ground and 18th June Road. Splashdown Waterpark and Public Observatory are also worth visiting. Spend some time exploring the area's activities, including outlet shopping.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/94e5acdd.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/53b66b8d.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/d0f4ce9c.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/dd439d2b.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/e9715e02.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "9.6/10 Exceptional",
-              "count": 120
-            }
-          },
-          {
-            "id": 18,
-            "title": "The Westin Goa",
-            "price": 193,
-            "description": "Located in Anjuna, The Westin Goa is near the beach. Chapora Fortress and Morjai Temple are local landmarks, and travelers looking to shop may want to visit The Goa Collective Bazaar and Anjuna Flea Market. Traveling with kids? Consider Splashdown Waterpark and Public Observatory. Take time off to check out the health/beauty spa in the area, or get some fresh air with adventures like hiking/biking trails, cave exploring, and skydiving nearby.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/a3a5f3d2.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/63520821.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/13d393d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/8e49bb9c.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/337a2890.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.8/10 Excellent",
-              "count": 120
-            }
-          },
-          {
-            "id": 19,
-            "title": "DoubleTree by Hilton Goa-Panaji",
-            "price": 117,
-            "description": "Located in Panaji, DoubleTree by Hilton Goa-Panaji is in the business district and on the waterfront. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Miramar Beach and Candolim Beach. Traveling with kids? Consider Goa Science Centre, or check out an event or a game at Poriat Football Ground.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/50c02dcd.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/af5b98bd.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/7b58d1e5.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/7ba8bf86.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/5ce9a83e.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.8/10 Excellent",
-              "count": 120
-            }
-          },
-          {
-            "id": 20,
-            "title": "The Zuri White Sands, Goa Resort & Casino",
-            "price": 230,
-            "description": "Located in Varca, The Zuri White Sands, Goa Resort & Casino is on the beach. Our Lady of Gloria Church and Our Lady of Grace Church are local landmarks, and the area's natural beauty can be seen at Varca Beach and Vaddi Beach. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium.",
-            "category": "men's clothing",
-            "image1": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/w7382h5539x8y10-9c2734b0.jpg?impolicy=resizecrop&rw=598&ra=fit",
-            "image2":"https://images.trvl-media.com/lodging/1000000/930000/922400/922321/57994211.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image3":"https://images.trvl-media.com/lodging/1000000/930000/922400/922321/57293e0b.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image4":"https://images.trvl-media.com/lodging/1000000/930000/922400/922321/67739b4f.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "image5":"https://images.trvl-media.com/lodging/1000000/930000/922400/922321/d76483de.jpg?impolicy=resizecrop&rw=297&ra=fit",
-            "rating": {
-              "rate": "8.0/10 Very Good",
-              "count": 120
-            }
-          }
-       
-      ]
+  "places": [
+    {
+      "id": 1,
+      "title": "Taj Resort & Convention Centre, Goa",
+      "price": 240,
+      "description": "Located in Panaji, Taj Resort & Convention Centre, Goa is connected to the convention center. Fort Aguada is a notable landmark, and the area's natural beauty can be seen at Vainguinim Beach and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground. With motor boating, boat tours, and swimming nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/1583475f.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/6c0c28e3.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/47000000/46210000/46205200/46205118/6a0edcf5.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.4/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 2,
+      "title": "Taj Fort Aguada Resort & Spa, Goa",
+      "price": 290,
+      "description": "Located in Candolim, Taj Fort Aguada Resort & Spa, Goa is connected to a shopping center. Baga Beach and Candolim Beach reflect the area's natural beauty and area attractions include Splashdown Waterpark and Public Observatory. Scuba diving, parasailing, and sailing offer great chances to get out on the surrounding water, or you can seek out an adventure with mountain biking nearby.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/f5764d77.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/8dfcb9bd.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/84d45e08.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/3125a37a.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/530000/526400/526340/b6ea794f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "rate": "9.0/10 Wonderful",
+      "count": 120
+    },
+    {
+      "id": 3,
+      "title": "Taj Exotica Resort & Spa, Goa",
+      "price": 320,
+      "description": "Located in Benaulim, Taj Exotica Resort & Spa, Goa is on the beach. Our Lady of Gloria Church and Our Lady of Merces Church are local landmarks, and the area's natural beauty can be seen at Vaddi Beach and Benaulim Beach. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. With water skiing, parasailing, and sailing nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/5bb5e9f8.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/492736dc.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/cb13ac03.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/453357df.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/670000/663700/663615/4ab40117.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "rate": "9.4/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 4,
+      "title": "The St. Regis Goa Resort",
+      "price": 314,
+      "description": "Located in Cavelossim, The St. Regis Goa Resort is near a train station and on a private beach. Cabo de Rama Fort is a notable landmark, and the area's natural beauty can be seen at Mobor Beach and Cavelossim Beach. Looking to enjoy an event or a game while in town? See what's going on at Fatorda Stadium. With scuba diving, snorkeling, and parasailing nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/bd276abd.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/ac3146c9.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/9f82f16e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/80e8c024.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/440000/438400/438378/e8063120.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.4/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 5,
+      "title": "Vivanta Goa, Panaji",
+      "price": 124,
+      "description": "Located in Panaji, Vivanta Goa, Panaji is connected to a shopping center. Mahalaxmi Temple and Bishop's Palace are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/00a8ece2.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/912ea277.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/0554f14d.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/f7d9e46d.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/3000000/2710000/2703400/2703358/1973de01.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.4/10 wonderful"
+    },
+    {
+      "id": 6,
+      "title": "DALLAS BEACH RESORTS",
+      "price": 49,
+      "description": "Located in Panaji, Vivanta Goa, Panaji is connected to a shopping center. Mahalaxmi Temple and Bishop's Palace are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Miramar Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/fb123ace.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/a0833fac.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/ff12482e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/e18540da.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/91000000/90920000/90919400/90919329/1c6c040e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.4/10 wonderful",
+      "count": 120
+    },
+    {
+      "id": 7,
+      "title": "Alila Diwa Goa - A Hyatt Brand",
+      "price": 199,
+      "description": "Located in Majorda, Alila Diwa Goa - A Hyatt Brand is in the historical district and near the beach. The area's natural beauty can be seen at Majorda Beach and Uttorda Beach, while Goa Chitra and Ancestral Goa are cultural highlights. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. With water skiing, parasailing, and windsurfing nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/77fc14a6.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/b15a7bcd.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/83f9ea8b.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/2d1ad66c.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/4000000/3510000/3505500/3505428/920bbedb.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.4/10 wonderful",
+      "count": 120
+    },
+    {
+      "id": 8,
+      "title": "Cidade De Goa - IHCL SeleQtions",
+      "price": 181,
+      "description": "Located in Panaji, Cidade De Goa - IHCL SeleQtions is on the beach. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Calangute Beach and Sinquerim Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/033247ff.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/6db1a03f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/8be089c3.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/0515b709.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/5cf104d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.0/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 9,
+      "title": "DALLAS BEACH RESORTS",
+      "price": 156,
+      "description": "Located in Panaji, Cidade De Goa - IHCL SeleQtions is on the beach. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Calangute Beach and Sinquerim Beach. Traveling with kids? Consider Splashdown Waterpark, or check out an event or a game at Poriat Football Ground.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/033247ff.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/6db1a03f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/8be089c3.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/0515b709.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/890000/881600/881558/5cf104d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.0/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 10,
+      "title": "Beleza By The Beach",
+      "price": 121,
+      "description": "Located in Betalbatim, Beleza By The Beach is in the business district and near the beach. Ancestral Goa and Indian Naval Aviation Museum are cultural highlights, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium. Take an opportunity to explore the area for outdoor excitement like ecotours.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/3706424f.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/9367169e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/39376b4d.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/380a9abc.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/4000000/3090000/3084000/3083952/48dc5435.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.6/10 Excellent",
+      "count": 120
+    },
+    {
+      "id": 11,
+      "title": "Seashell Suites and Villas",
+      "price": 117,
+      "description": "Located in Candolim, Seashell Suites and Villas is in the entertainment district and near the beach. Splashdown Waterpark and Goa Science Centre are local attractions and those in the mood for shopping can visit Calangute Market and Titos Lane.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/ef1b7e04.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/3d050563.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "hhttps://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/ce694dd6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/d23b035e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/13000000/12780000/12778600/12778567/cae3d16c.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.6/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 12,
+      "title": "ITC Grand Goa, a Luxury Collection Resort & Spa, Goa",
+      "price": 370,
+      "description": "Located in Cansaulim, ITC Grand Goa, a Luxury Collection Resort & Spa, Goa is in the entertainment district and on the beach. The area's natural beauty can be seen at Arossim Beach and Uttorda Beach. Looking to enjoy an event or a game while in town? See what's happening at Pandit Jawaharlal Nehru Stadium or Fatorda Stadium. Take an opportunity to explore the area for outdoor excitement like hiking/biking trails.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/94554499.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/3ae1623c.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/07b360d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/d50241c1.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/31000000/30790000/30783800/30783748/6c660215.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.4/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 13,
+      "title": "Heritage Village Resort & Spa Goa",
+      "price": 169,
+      "description": "Located in Cansaulim, Heritage Village Resort & Spa Goa is in the historical district and near the beach. Mother of God Church and Our Lady of Merces Church are local landmarks, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Traveling with kids? Consider Public Observatory and Goa Science Centre. With kayaking, snorkeling, and water skiing nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/d67c4236.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/f6005842.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/df19076f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/1d4b82d8.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/3000000/2190000/2185200/2185154/0a87cd58.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.4/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 14,
+      "title": "W Goa",
+      "price": 266,
+      "description": "Located in Cansaulim, Heritage Village Resort & Spa Goa is in the historical district and near the beach. Mother of God Church and Our Lady of Merces Church are local landmarks, and travelers looking to shop may want to visit Margao Market and Vasco's Municipal Market. Traveling with kids? Consider Public Observatory and Goa Science Centre. With kayaking, snorkeling, and water skiing nearby, you'll find plenty of adventures in the water.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/a6af8cc5.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/e9e7aae7.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/d7ced695.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/8deb87f6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/16000000/15440000/15439200/15439133/cd7b3e4b.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.4/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 15,
+      "title": "Azaya Beach Resort",
+      "price": 185,
+      "description": "Located in Benaulim, Azaya Beach Resort is near the airport and near the beach. The area's natural beauty can be seen at Vaddi Beach and Benaulim Beach, while Ancestral Goa and Indian Naval Aviation Museum are cultural highlights. Looking to enjoy an event or a game while in town? See what's happening at Pandit Jawaharlal Nehru Stadium or Fatorda Stadium. Spend some time exploring the area's activities, including outlet shopping.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/e8849892.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/5c68bb87.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "hhttps://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/32b57043.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/1a7b8c33.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/25000000/24050000/24041500/24041444/c4e44c40.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.4/10 Very Good",
+      "count": 120
+    },
+    {
+      "id": 16,
+      "title": "Vivanta Goa, Miramar",
+      "price": 127,
+      "description": "Located in Panaji, Vivanta Goa, Miramar is connected to a rail/subway station. Azad Maidan and Our Lady Of Pilar are notable landmarks, and the area's natural beauty can be seen at Campal Gardens and Salim Ali Bird Sanctuary.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/8d721488.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/150ef5b1.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/4e56c48b.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/6491a3c0.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/71000000/70330000/70324400/70324366/99aa8a09.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.6/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 17,
+      "title": "Hard Rock Hotel Goa",
+      "price": 109,
+      "description": "Located in Calangute, Hard Rock Hotel Goa is in the city center and near the beach. Kerkar Art Complex and Calizz are cultural highlights, and some of the area's activities can be experienced at Poriat Football Ground and 18th June Road. Splashdown Waterpark and Public Observatory are also worth visiting. Spend some time exploring the area's activities, including outlet shopping.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/94e5acdd.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/53b66b8d.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/d0f4ce9c.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/dd439d2b.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/6000000/5180000/5171900/5171850/e9715e02.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "9.6/10 Exceptional",
+      "count": 120
+    },
+    {
+      "id": 18,
+      "title": "The Westin Goa",
+      "price": 193,
+      "description": "Located in Anjuna, The Westin Goa is near the beach. Chapora Fortress and Morjai Temple are local landmarks, and travelers looking to shop may want to visit The Goa Collective Bazaar and Anjuna Flea Market. Traveling with kids? Consider Splashdown Waterpark and Public Observatory. Take time off to check out the health/beauty spa in the area, or get some fresh air with adventures like hiking/biking trails, cave exploring, and skydiving nearby.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/a3a5f3d2.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/63520821.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/13d393d6.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/8e49bb9c.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/67000000/66040000/66031300/66031217/337a2890.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.8/10 Excellent",
+      "count": 120
+    },
+    {
+      "id": 19,
+      "title": "DoubleTree by Hilton Goa-Panaji",
+      "price": 117,
+      "description": "Located in Panaji, DoubleTree by Hilton Goa-Panaji is in the business district and on the waterfront. Basilica of Bom Jesus and Fort Aguada are notable landmarks, and the area's natural beauty can be seen at Miramar Beach and Candolim Beach. Traveling with kids? Consider Goa Science Centre, or check out an event or a game at Poriat Football Ground.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/50c02dcd.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/af5b98bd.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/7b58d1e5.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/7ba8bf86.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/22000000/21430000/21429100/21429037/5ce9a83e.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.8/10 Excellent",
+      "count": 120
+    },
+    {
+      "id": 20,
+      "title": "The Zuri White Sands, Goa Resort & Casino",
+      "price": 230,
+      "description": "Located in Varca, The Zuri White Sands, Goa Resort & Casino is on the beach. Our Lady of Gloria Church and Our Lady of Grace Church are local landmarks, and the area's natural beauty can be seen at Varca Beach and Vaddi Beach. Looking to enjoy an event or a game while in town? See what's happening at Fatorda Stadium or Pandit Jawaharlal Nehru Stadium.",
+      "category": "men's clothing",
+      "image1": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/w7382h5539x8y10-9c2734b0.jpg?impolicy=resizecrop&rw=598&ra=fit",
+      "image2": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/57994211.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image3": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/57293e0b.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image4": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/67739b4f.jpg?impolicy=resizecrop&rw=297&ra=fit",
+      "image5": "https://images.trvl-media.com/lodging/1000000/930000/922400/922321/d76483de.jpg?impolicy=resizecrop&rw=297&ra=fit",
+
+      "rate": "8.0/10 Very Good",
+      "count": 120
+    }
+  ]
 }

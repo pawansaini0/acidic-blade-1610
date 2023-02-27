@@ -44,7 +44,7 @@ const Offers = () => {
                       {elem.title}
                     </Text>
                     <Flex justifyContent={"space-around"} mt="4rem">
-                      <Box>{elem.rating.rate}</Box>
+                      <Box>{elem.rate}</Box>
                       <Text fontSize={"2xl"} fontWeight="bold">
                         ${elem.price}
                       </Text>
